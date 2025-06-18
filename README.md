@@ -25,5 +25,4 @@ A responsive, modern dashboard UI for visualizing analytics and traffic stats. B
 - Google Fonts
 
 ## 🌐 Live Demo
-
-analitycdashboard.netlify.app
+analitycdashboard.netlify.app 
